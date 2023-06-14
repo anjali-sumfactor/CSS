@@ -30,3 +30,8 @@ Select all element<br>
 <h3>3. 1em = 100% of parent element</h3>
 <h3>4. 1rem = 100% of root element</h3>
 
+<h2>Font Weight</h2>
+<h3>1. Normal bold:- keywords</h3>
+<h3>2. Lighter bolder:- relative to parent</h3>
+<h3>3. Number:- 100-900</h3>
+
