@@ -24,6 +24,13 @@ Apply only on a single element<br>
 Select all element<br>
 
 # Section-6(CSS Properties)
+<h2>Color property</h2>
+<h2>Font size</h2>
+<h2>Font weight</h2>
+<h2>Font family</h2>
+<h2>Text align</h2>
+<h2>Google fonts</h2>
+
 <h2>Font Size</h2>
 <h3>1. 1px = 1/96th inch</h3>
 <h3>2. 1pt = 1/72nd inch</h3>
@@ -34,4 +41,10 @@ Select all element<br>
 <h3>1. Normal bold:- keywords</h3>
 <h3>2. Lighter bolder:- relative to parent</h3>
 <h3>3. Number:- 100-900</h3>
+
+<h2>Box Model</h2>
+<h3>1.Margin:-</h3> <p>Space/part between border and any other content that's on screen is margin.</p>
+<h3>2.Padding:-</h3> <p>Space between content and border</p>
+<h3>3.Content:-</h3> <p>Text</p>
+<h3>4.Border</h3>
 
