@@ -23,3 +23,10 @@ Apply only on a single element<br>
 *{ }<br>
 Select all element<br>
 
+# Section-6(CSS Properties)
+<h2>Font Size</h2>
+<h3>1. 1px = 1/96th inch</h3>
+<h3>2. 1pt = 1/72nd inch</h3>
+<h3>3. 1em = 100% of parent element</h3>
+<h3>4. 1rem = 100% of root element</h3>
+
